@@ -5,8 +5,7 @@ JSON Template for WebSite-Links in Bio-Tools in Elementor To work with the templ
 
 Download link:  https://downgit.github.io/#/home?url=https://github.com/InnoTechDev365/link-in-bio-tools-template-/blob/main/elementor-6-2024-10-08.json
 
-Status: Ready to use! 🚧
-
+ 
  ## Technology
 
  - WordPress
